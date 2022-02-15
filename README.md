@@ -9,11 +9,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 
 
@@ -44,7 +41,6 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Solution URL: [Click Here solution URL here](https://sulabh007.github.io/order-summary-component-main/)
 - Live Site URL: [Click Here live site URL here](https://github.com/sulabh007/order-summary-component-main)
 
-## My process
 
 ### Built with
 
