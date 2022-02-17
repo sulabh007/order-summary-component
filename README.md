@@ -38,8 +38,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Click Here solution URL here](https://sulabh007.github.io/order-summary-component-main/)
-- Live Site URL: [Click Here live site URL here](https://github.com/sulabh007/order-summary-component-main)
+- Solution URL: [Click Here solution URL here](https://github.com/sulabh007/order-summary-component)
+- Live Site URL: [Click Here live site URL here](https://github.com/sulabh007/order-summary-component)
 
 
 ### Built with
